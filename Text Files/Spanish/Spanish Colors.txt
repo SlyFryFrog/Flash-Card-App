@@ -1,0 +1,5 @@
+red, rojo
+blue, azul
+green, verde
+yellow, amarillo
+black, negro
