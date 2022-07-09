@@ -49,7 +49,7 @@ def Spanish_options():
         print("Please enter a valid option.")
         Spanish_options()
 
-
+# Starts program
 def start():
     print("\nWelcome to Flashcards!\n Select an option below, to choose, type the number (ex. '1'):\n")
     print("1. French Flashcards\n2. Spanish Flashcards\n")
