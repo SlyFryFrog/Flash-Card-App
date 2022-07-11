@@ -1,5 +1,6 @@
 from Practice import dictionary_generator
 
+# Gives user choices on French topics
 def French_options():
     print("\nWelcome to the French Flashcards!\n Select an option below, to choose, type the number (ex. '1'):\n")
     print("1. Number Practice\n2. Color Practice\n3. Home\n")
@@ -24,7 +25,7 @@ def French_options():
         print("Please enter a valid option.")
         French_options()
 
-
+# Gives user choices on Spanish topic
 def Spanish_options():
     print("\nWelcome to the Spanish Flashcards!\n Select an option below, to choose, type the number (ex. '1'):\n")
     print("1. Number Practice\n2. Colors\n3. Home\n")
